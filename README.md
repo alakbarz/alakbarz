@@ -1,3 +1,4 @@
 ### i'm gonna change this, gimme a lil time
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alakbarz&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=alakbarz&show_icons=true&theme=dark)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=alakbarz&langs_count=6&theme=dark)]()
